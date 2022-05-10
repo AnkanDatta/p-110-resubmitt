@@ -1,0 +1,62 @@
+body
+{
+  color: black;
+  background: magenta;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_gesture_name
+{
+    color: black
+}
+.gesture_name
+{
+  font-size: 40px;
+  
+}
+.emoji
+{
+  font-size:48px;
+}
+
+.heading
+{
+  font-size: 18px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
+
+.gest
+{
+    
+    
+    color: green;
+    font-weight: bolder;
+    font-size: 20px;
+    font-family: fantasy;
+    
+}
+
+label
+{
+    color: rgb(255, 51, 0);
+    font-weight: bolder;
+    font-size: 20px;
+    font-family: fantasy;
+}
+
+.snap
+{
+    position: absolute;
+     bottom:51px;
+    left: 400px;
+    
+}
